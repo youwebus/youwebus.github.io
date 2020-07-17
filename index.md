@@ -15,7 +15,7 @@
 
 <!-- The Navigation Menu -->
 
-    <a class="active" href="Home.html">HOME</a>
+    <a class="active" href="index.html">HOME</a>
     <a href="#project">PROJECTS</a>
     <a href="About.html">ABOUT ME</a>
   </div>
