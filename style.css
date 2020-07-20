@@ -165,6 +165,9 @@ a
 
 @media only screen and (max-width: 756px)
 {
+.navbar {
+width: 100%;
+}
 .card {
 width: 99%;
 float: none;
