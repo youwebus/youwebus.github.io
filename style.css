@@ -1,0 +1,181 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+
+/* white background */
+body
+{
+  background: black;
+}
+
+.logo
+{
+ width: 170px;
+ height: 110px;
+ float: left;
+}
+
+
+/* Add a black background color to the top navigation */
+.navbar
+{
+  width: 100%;
+  background-color: black;
+  overflow: hidden;
+  border-top: 3px solid #FF7733;
+  border-bottom: 3px solid green;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+}
+
+
+/* Style the links inside the navigation bar */
+.navbar a
+{
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-family: calibri;
+  font-size: 20px;
+  flex-grow:1;
+}
+
+
+/* Change the color of links on hover */
+.navbar a:hover
+{
+  background-color: #0059b2;
+}
+
+
+a.active 
+{
+  background-color: red;
+}
+
+
+.card
+{
+  max-height: 530px;
+  margin-top: 55px ;
+  float: left;
+  text-align: center;
+  font-family: arial;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: white;
+}
+
+
+.cardimg
+{
+  max-width:360px;
+  border-radius: 10px;
+}
+
+
+.title
+{
+  color: grey;
+  font-size: 18px;
+}
+
+
+a
+{
+  text-decoration: none;
+  font-size: 35px;
+  color: black;
+}
+
+
+.fa-facebook-square:hover 
+{
+  color: blue;
+}
+
+
+.fa-instagram:hover
+{
+  color: red;
+}
+
+
+.fa-twitter-square:hover
+{
+  color:#00B6F1;
+}
+
+
+.fa-phone-square-alt
+{
+  color: green;
+  margin: 10px;
+  font-size: 16px;
+}
+
+
+.texts
+{
+  max-width: 950px;
+  margin-top: 55px;
+  margin-left:375px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  background-color:lightcyan;
+  font-family: Florance, cursive;
+}
+
+
+.webbuild
+{
+  font-family: Helvetica, Arial, sans-serif;
+  color: red;
+}
+
+
+.notice
+{
+  position:fixed;
+  margin: 70px 0;
+  font-size: x-large;
+  text-align: center;
+  color: white;
+  font-family: Open Sans,sans-serif;
+}
+
+
+.bullet
+{
+  font-size: 40px;
+  color: red;
+  vertical-align: middle;
+}
+
+
+.quote
+{
+  font-family: Florance, cursive;
+}
+
+@media only screen and (max-width: 756px)
+{
+.card {
+width: 99%;
+float: none;
+}
+
+.cardimg {
+width: 100%;
+}
+
+.texts {
+width:99%;
+margin: 20px 0 0 0;
+}
+}
