@@ -172,6 +172,7 @@ a
 .navbar a {
 padding: 5px;
 font-size: 10px;
+flex-grow: 0;
 }
 .card {
 width: 97%;
