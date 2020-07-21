@@ -165,10 +165,6 @@ a
 
 @media only screen and (max-width: 756px)
 {
-.navbar {
-justify-content: flex-start;
-}
-
 .navbar a{
 flex-grow: 0;
 font-size: 2.5vw;
