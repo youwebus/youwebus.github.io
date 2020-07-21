@@ -166,7 +166,7 @@ a
 @media only screen and (max-width: 756px)
 {
 .navbar {
-overflow: auto;
+position:relative;
 }
 .card {
 width: 97%;
