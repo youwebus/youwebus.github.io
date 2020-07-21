@@ -166,7 +166,7 @@ a
 @media only screen and (max-width: 756px)
 {
 .navbar a {
-flex-wrap: wrap;
+justify-content: flex-start;
 }
 .card {
 width: 97%;
