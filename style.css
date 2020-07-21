@@ -165,14 +165,7 @@ a
 
 @media only screen and (max-width: 756px)
 {
-.logo
-{
- max-width: 100px;
-}
 .navbar a {
-padding: 5px;
-font-size: 10px;
-flex-grow: 0;
 flex-wrap: wrap;
 }
 .card {
