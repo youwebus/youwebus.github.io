@@ -165,9 +165,14 @@ a
 
 @media only screen and (max-width: 756px)
 {
-.navbar a {
+.navbar {
 justify-content: flex-start;
 }
+
+.navbar a{
+flex-grow: 0;
+}
+
 .card {
 width: 97%;
 float: none;
