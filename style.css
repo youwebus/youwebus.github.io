@@ -173,6 +173,11 @@ a
   color: white;
   border: 8px inset white;
   padding: 8%;
+  font-family: Broadway;
+}
+
+h1 {
+font-family: Jokerman;
 }
 
 hr {
@@ -184,7 +189,7 @@ hr {
 {
 .navbar a{
 flex-grow: 1;
-font-size: 3.2vw;
+font-size: 3vw;
 }
 
 .card {
@@ -200,6 +205,6 @@ width: 100%;
 .texts {
 width:97%;
 margin: 20px 0 5px 5px;
-font-family: Florance;
+font-family: Bradley Hand ITC;
 }
 }
