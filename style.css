@@ -172,7 +172,7 @@ a
   text-align: center;
   color: white;
   border: 8px inset white;
-  padding: 10%;
+  padding: 8%;
 }
 
 hr {
@@ -184,7 +184,7 @@ hr {
 {
 .navbar a{
 flex-grow: 1;
-font-size: 3vw;
+font-size: 3.2vw;
 }
 
 .card {
@@ -200,6 +200,6 @@ width: 100%;
 .texts {
 width:97%;
 margin: 20px 0 5px 5px;
-font-family: Segoe Print;
+font-family: Florance;
 }
 }
