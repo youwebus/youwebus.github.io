@@ -160,7 +160,7 @@ a
 
 .quote
 {
-  font-family: Florance, cursive;
+  font-family: Croissant One;
 }
 
 
@@ -173,11 +173,11 @@ a
   color: white;
   border: 8px inset white;
   padding: 8%;
-  font-family: Broadway;
+  font-family: Limelight;
 }
 
-h1 {
-font-family: Jokerman;
+.coming {
+font-family: Frijole;
 }
 
 hr {
@@ -205,6 +205,5 @@ width: 100%;
 .texts {
 width:97%;
 margin: 20px 0 5px 5px;
-font-family: Bradley Hand ITC;
 }
 }
